@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_id": "micro-forum",
+    "project_number": "757484025597",
+    "name": "Micro-Forum"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757484025597:android:309e34edefa9be18",
+        "client_id": "android:com.cloudproj.microforum",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.cloudproj.microforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757484025597-0b2da5ri7dgp9k1i3bbamdgeq04u7qav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cloudproj.microforum",
+            "certificate_hash": "F4FFAD0907D60908E22A3E88BD2A7C5F5A730F9B"
+          }
+        }
+      ],
+      "api_key": [],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 2,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 2
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
